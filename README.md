@@ -30,3 +30,5 @@ $ yarn start
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA][license] para saber mais.
 
 Feito com ❤️ por Allexis Figueiredo 👋🏽 [Entre em contato!](https://www.linkedin.com/in/allexis-figueiredo/)
+
+[license]: https://opensource.org/licenses/MIT
